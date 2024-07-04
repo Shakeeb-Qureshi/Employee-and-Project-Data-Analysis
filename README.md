@@ -1,4 +1,4 @@
-# Employee and Project Data Analysis and Manipulation in Python
+# Employee and Project Data Analysis in Python
 
 ## Overview
 This capstone project involves the analysis and manipulation of employee and project data using Python. The primary objective is to create three dataframes from the given datasets, perform various data cleaning, transformation, and analysis tasks, and finally consolidate the results into meaningful insights. The project showcases proficiency in data handling, including filling missing values, splitting columns, joining dataframes, and applying conditional logic for data manipulation.
